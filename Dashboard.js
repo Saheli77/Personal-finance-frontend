@@ -7,7 +7,6 @@ import WarningIcon from '@mui/icons-material/Warning';
 
 // Lucrative finance illustration (unDraw, Unsplash, or similar)
 const HERO_IMAGE = 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800&q=80';
-const SAVINGS_IMAGE = 'https://undraw.co/api/illustrations/undraw_savings_re_eq4w.svg';
 
 const demoTransactions = [
   { id: 1, desc: 'Amazon Purchase', amount: -120.99, date: '2025-08-01' },
